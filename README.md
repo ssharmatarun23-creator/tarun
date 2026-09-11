@@ -1,4 +1,14 @@
+# 💫 Hi 👋, I'm TARUN SHARMA
+**A passionate web developer || AI Engineer ||
 
+- 🔭 **I’m currently working on:** AGI
+- 🌱 **I’m currently learning:** AI/ML
+- 👯 **I’m looking to collaborate on:** Enter your project name and info
+- 🤔 **I’m looking for help with:** 
+- 💬 **Ask me about:** AI/ML, WEB DEVELOPMENT
+- 📫 **How to reach me:** ssharma.tarun23@gmail.com
+- 😄 **Pronouns:** TARUN
+- ⚡ **Fun fact:** TECH ENTHUSIAST
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/tarun_5.sharma) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ssharma.tarun23@gmail.com) 
 
